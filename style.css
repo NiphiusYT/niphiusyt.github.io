@@ -1,0 +1,28 @@
+body {
+    background-color: #333; /* dunkles Grau */
+  }
+
+  #first {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    opacity: 0.6;
+    width: 300px;
+    height: 600px;
+    background-color: #222; /* dunkleres Grau */
+    color: #fff;
+    border-radius: 10px;
+    padding: 20px;
+    float:left;
+    margin: 10px;
+  }
+  
+  #first:hover {
+    opacity: 1;
+  }
+  
+  h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+  }
+  ul#otis {
+    list-style-type: none;
+    }
